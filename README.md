@@ -64,7 +64,9 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 * What the application does ?
-* State of the Project (Alpha, Beta, Realeased)
+
+**State of the project => Alpha**
+
 * Main difficulties - [Roadmap](#roadmap)
 
 
