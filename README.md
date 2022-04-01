@@ -65,7 +65,7 @@
 
 * What the application does ?
 
-**State of the project => Alpha**
+**State of the project => Alpha (v.0.0.5)**
 
 * Main difficulties - [Roadmap](#roadmap)
 
