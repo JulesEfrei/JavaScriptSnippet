@@ -106,8 +106,10 @@ Package not already released. You can still copy paste the function you need.
 Here is the roadmap of the project. Checked flags mean the features is out and unchecked flags mean that the feature is comming.
 
 - [x] Initialize project
-- [ ] Add bacic snippet
+- [x] Add bacic snippet
 - [ ] Create the npm package
+- [ ] Add JSON snippet
+- [ ] Add Date snippet
 
 See the [open issues](https://github.com/JulesEfrei/JavaScriptSnippet/issues) for a full list of proposed features (and known issues).
 
