@@ -14,6 +14,6 @@ test("randomBetweenExclude function", () => {
     expect(randomBetweenExclude(100, 13)).toBeGreaterThanOrEqual(14)
     expect(randomBetweenExclude(100, 13)).toBeLessThanOrEqual(99)
 
-    expect(randomBetweenExclude(100)).toBeGreaterThanOrEqual(14)
+    expect(randomBetweenExclude(100)).toBeGreaterThanOrEqual(0)
     expect(randomBetweenExclude(100)).toBeLessThanOrEqual(99)
 })
