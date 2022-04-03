@@ -21,14 +21,14 @@
   <p align="center">
     JavaScript utilities package
     <br />
-    <!-- <a href="https://github.com/JulesEfrei/REPOSITORY"><strong>Explore the docs</strong></a> -->
+    <!-- <a href="https://github.com/JulesEfrei/JavaScriptSnippet"><strong>Explore the docs</strong></a> -->
     <br />
     <br />
-    <!-- <a href="https://github.com/JulesEfrei/REPOSITORY">View Demo</a>
+    <!-- <a href="https://github.com/JulesEfrei/JavaScriptSnippet">View Demo</a>
     · -->
-    <a href="https://github.com/JulesEfrei/REPOSITORY/issues">Report Bug</a>
+    <a href="https://github.com/JulesEfrei/JavaScriptSnippet/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JulesEfrei/REPOSITORY/pulls">Request Feature</a>
+    <a href="https://github.com/JulesEfrei/JavaScriptSnippet/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)  -->
 
 * What the application does ?
 
@@ -109,7 +109,7 @@ Here is the roadmap of the project. Checked flags mean the features is out and u
 - [ ] Add bacic snippet
 - [ ] Create the npm package
 
-See the [open issues](https://github.com/JulesEfrei/REPOSITORY/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/JulesEfrei/JavaScriptSnippet/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -168,16 +168,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information. If no
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[contributors-url]: https://github.com/JulesEfrei/REPOSITORY/graphs/contributors -->
-<!-- [stars-shield]: https://img.shields.io/github/stars/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[stars-url]: https://github.com/JulesEfrei/REPOSITORY/stargazers -->
-[forks-shield]: https://img.shields.io/github/forks/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[forks-url]: https://github.com/JulesEfrei/REPOSITORY/network/members
-[issues-shield]: https://img.shields.io/github/issues/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[issues-url]: https://github.com/JulesEfrei/REPOSITORY/issues
-[license-shield]: https://img.shields.io/github/license/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[license-url]: https://github.com/JulesEfrei/REPOSITORY/blob/master/LICENSE.txt
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/JulesEfrei/JavaScriptSnippet.svg?style=for-the-badge
+[contributors-url]: https://github.com/JulesEfrei/JavaScriptSnippet/graphs/contributors -->
+<!-- [stars-shield]: https://img.shields.io/github/stars/JulesEfrei/JavaScriptSnippet.svg?style=for-the-badge
+[stars-url]: https://github.com/JulesEfrei/JavaScriptSnippet/stargazers -->
+[forks-shield]: https://img.shields.io/github/forks/JulesEfrei/JavaScriptSnippet.svg?style=for-the-badge
+[forks-url]: https://github.com/JulesEfrei/JavaScriptSnippet/network/members
+[issues-shield]: https://img.shields.io/github/issues/JulesEfrei/JavaScriptSnippet.svg?style=for-the-badge
+[issues-url]: https://github.com/JulesEfrei/JavaScriptSnippet/issues
+[license-shield]: https://img.shields.io/github/license/JulesEfrei/JavaScriptSnippet.svg?style=for-the-badge
+[license-url]: https://github.com/JulesEfrei/JavaScriptSnippet/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jules-bruzeau/
 [product-screenshot]: images/screenshot.png
